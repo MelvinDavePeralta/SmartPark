@@ -35,7 +35,7 @@ Make sure Java 11 is configured as the project's SDK.
 On Windows, run:
 
 mvnw clean compile
-
+mvnw spring-boot:run
 
 ## Importing the Postman Collection
 
